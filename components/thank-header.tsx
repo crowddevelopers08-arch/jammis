@@ -15,7 +15,7 @@ const ThankHeaderone = () => {
             <a href="/" className="flex items-center gap-2">
               <div className="w-40 sm:w-48 md:w-56 lg:w-64 relative h-12 sm:h-14 lg:h-16">
                 <Image
-                  src="/Logo-jammih.png"
+                  src="https://ik.imagekit.io/zir7mehas/public/Logo-jammih.png"
                   alt="Jammi's Wellness & Livercure Clinic"
                   fill
                   className="object-contain object-left"

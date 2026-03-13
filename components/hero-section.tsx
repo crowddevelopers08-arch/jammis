@@ -66,7 +66,7 @@ const Hero = () => {
               <div className="relative aspect-[16/9] bg-gradient-to-br from-[#530d3c]/10 to-[#fcb716]/10">
                 <video
                   ref={videoRef}
-                  src="/jammismontage.mov"
+                  src="https://ik.imagekit.io/zir7mehas/public/jammismontage.mov"
                   className="w-full h-full object-cover"
                   loop
                   playsInline

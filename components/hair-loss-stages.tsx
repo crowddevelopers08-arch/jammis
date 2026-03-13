@@ -239,7 +239,7 @@ export function WhyTrustSection() {
                 {/* Replace the gradient background with Image component */}
                 <div className="relative w-full h-full">
                   <Image
-                    src="/high-angle.jpg" // Update with your actual image path
+                    src="https://ik.imagekit.io/zir7mehas/public/high-angle.jpg" // Update with your actual image path
                     alt="Jammi's Ayurvedic Heritage since 1890"
                     fill
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 40vw"
@@ -292,7 +292,7 @@ export function WhyTrustSection() {
               >
                 <div className="relative w-full h-full">
                   <Image
-                    src="/high-angle.jpg" // Update with your actual image path
+                    src="https://ik.imagekit.io/zir7mehas/public/high-angle.jpg" // Update with your actual image path
                     alt="Jammi's Ayurvedic Heritage since 1890"
                     fill
                     sizes="100vw"

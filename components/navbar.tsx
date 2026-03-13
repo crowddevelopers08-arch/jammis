@@ -31,7 +31,7 @@ const Headerone = () => {
             <a href="/" className="flex items-center gap-2 flex-shrink-0">
               <div className="w-40 sm:w-48 md:w-52 lg:w-60 relative h-10 sm:h-12 lg:h-14">
                 <Image
-                  src="/Logo-jammih.png"
+                  src="https://ik.imagekit.io/zir7mehas/public/Logo-jammih.png"
                   alt="Jammi's Wellness & Livercure Clinic"
                   fill
                   className="object-contain object-left"
